@@ -1,0 +1,16 @@
+.escola{
+    backgroud-image: linear-gradient(#183d52,#490303);
+color:rgb(255, 255, 255);
+display: flex;
+}
+.escola.conteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+}
+.escola-imagem{
+    width:25%
+}
+.escoal-titulo{
+    padding:24px 0;
+}
